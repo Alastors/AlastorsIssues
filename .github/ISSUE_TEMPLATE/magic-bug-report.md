@@ -9,6 +9,8 @@ assignees: Alastors
 
 **Describe the bug**
 
+**Screenshots?**
+
 **What Mods?**
 
 **What Version (if GTNH)**
